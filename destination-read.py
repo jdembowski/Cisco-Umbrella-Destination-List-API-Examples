@@ -2,7 +2,7 @@
 
 import requests, json, sys
 
-api_org = '2644482'
+api_org = 'xxxxxxxx'
 
 with open('management-api-auth.txt', 'r') as k:
     api_key = k.read().rstrip()
